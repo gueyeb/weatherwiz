@@ -1,0 +1,1 @@
+// Weather condition mappings placeholder 

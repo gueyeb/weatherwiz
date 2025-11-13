@@ -1,3 +1,5 @@
+// Babel configuration placeholder
+
 module.exports = function(api) {
   api.cache(true);
   return {

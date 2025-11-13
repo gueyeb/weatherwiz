@@ -1,0 +1,1 @@
+// WeatherAPI.com fallback client placeholder 

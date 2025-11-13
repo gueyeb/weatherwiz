@@ -8,6 +8,9 @@ Simple React app to give weather info on any given location. Made with love :hea
 ## References
 - [Wikipedia - DC Comics - Weather Wizard](https://en.wikipedia.org/wiki/Weather_Wizard)
 
+## Contributing
+- See [Repository Guidelines](AGENTS.md) for project structure, coding style, and review expectations.
+
 ## Authors
 - [Ananias CARVALHO](https://github.com/anancarv)
 - [Babacar GUEYE](https://github.com/gueyeb)
